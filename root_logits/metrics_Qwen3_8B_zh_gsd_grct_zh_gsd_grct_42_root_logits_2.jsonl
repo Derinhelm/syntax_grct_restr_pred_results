@@ -448,7 +448,7 @@
         null,
         null,
         null,
-        null,
+        0.4375,
         0.5384615384615384,
         null,
         null,
@@ -950,7 +950,7 @@
         null,
         null,
         null,
-        null,
+        0.4375,
         0.5384615384615384,
         null,
         null,
@@ -1004,11 +1004,11 @@
         null
     ],
     "metrics_Qwen3_8B_zh_gsd_grct_zh_gsd_grct_42_root_logits_2_mean": {
-        "uas_right": 0.5722938637378073,
-        "uas_all": 0.08813325501562233,
-        "las_right": 0.5387121486335051,
-        "las_all": 0.08296167088955979,
-        "wrong_amount": 423,
+        "uas_right": 0.5705657372796303,
+        "uas_all": 0.08900825501562233,
+        "las_right": 0.5374145569843576,
+        "las_all": 0.08383667088955979,
+        "wrong_amount": 422,
         "all_amount": 500
     }
 }
